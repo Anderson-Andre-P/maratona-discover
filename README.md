@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Demo do portfolio" title="#Portfolio" src="https://github.com/Anderson-Andre-P/maratona-discover/blob/main/img/Discover.png">
+  <img alt="Demo do DevFinaces" title="#DevFinaces" src="https://github.com/Anderson-Andre-P/maratona-discover/blob/main/img/Discover.png">
 </h2>
 
 ### Features
